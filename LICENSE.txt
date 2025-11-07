@@ -1,0 +1,29 @@
+Craft & Ruin / Mineclonia Texture Pack License (CR-MTP v1.0)
+© 2025 Brandon Chaney and contributors
+
+This texture pack is free to use, share, and modify under the following terms:
+
+1. **Attribution Required**
+   You must always credit the original authors of this texture pack as:
+   "Craft & Ruin Texture Pack by Brandon Chaney and contributors"
+   (or "Mineclonia Official Textures by Brandon Chaney and contributors" if used in Mineclonia).
+
+2. **Free Use Only**
+   This texture pack and any of its modified versions may not be sold, included in paid compilations, or distributed behind paywalls or advertisements that restrict access.
+
+3. **Modifications and Contributions**
+   You may modify, improve, or add to these textures for personal or community use.
+   Contributions may be submitted back to the official repository or project for inclusion.
+   Modified versions must clearly state that they are based on the Craft & Ruin / Mineclonia Texture Pack and must include this license file unchanged.
+
+4. **Redistribution**
+   Redistribution is allowed only if the textures remain free and include this license file intact.
+   Do not remove author credits from texture metadata, readme files, or in-game attribution screens.
+
+5. **No Warranty**
+   This texture pack is provided "as is" without any warranty of any kind. Use at your own risk.
+
+---
+
+For more information or official updates, contact:
+Brandon Chaney (Project Lead) – 2025
